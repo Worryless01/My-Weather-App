@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #2866f6;
+}
+
+.container{
+    cursor: pointer;
+    margin: auto;
+    background-color: white;
+    width: 20%;
+    height: 700px;
+    text-align: center;
+    margin-top: 10rem;
+    border-radius: 25px;
+}
+
+img{
+    width: 7rem;
+    margin-top: 10rem;
+}
+
+.semi-container{
+    margin-top: 5rem;
+    line-height: 20px;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2866f6;
+    font-size: 3rem;
+}
+
+h3{
+    color: grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.button{
+    padding-top: 7rem;
+}
+
+button{
+    border: none;
+    cursor: pointer;
+    background-color: #2866f6;
+    padding: 15px;
+    border-radius: 50%;
+    color: white;
+}
+
